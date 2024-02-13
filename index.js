@@ -31,7 +31,7 @@ while(seleccion !="no"){
     let precio = 0 
 
     if (producto == "huevos" || producto == "harina" || producto== "cafe" ||  
-    producto == " helado" || producto =="tallarines"){
+    producto == "helado" || producto =="tallarines"){
       switch(producto)  {
         case "huevos":
         precio = 100   
